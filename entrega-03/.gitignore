@@ -21,3 +21,6 @@ __pycache__/
 .vscode/
 .idea/
 .DS_Store
+
+# Brief local de la consigna (no forma parte de la entrega)
+PRE_ENTREGA_3_RAG.md
