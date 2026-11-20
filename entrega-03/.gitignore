@@ -1,0 +1,23 @@
+# Secretos
+.env
+
+# Base vectorial: se genera con `python main.py ingest`
+vectorstore/
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store

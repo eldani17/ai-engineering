@@ -1,0 +1,16 @@
+# LangChain (LCEL, splitter, integración con Chroma y HuggingFace)
+langchain-core==1.8.4
+langchain-text-splitters==1.1.3
+langchain-chroma==1.1.0
+langchain-huggingface==1.2.3
+
+# Base vectorial y embeddings locales
+chromadb==1.5.9
+sentence-transformers==6.3.0
+
+# Proveedores de LLM (mismos que PE1 y PE2)
+langchain-anthropic==1.7.12
+langchain-openai==1.8.5
+
+pydantic==2.14.4
+python-dotenv==1.2.4
